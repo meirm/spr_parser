@@ -1,5 +1,11 @@
 # Sparse Priming Representation Encoder/Decoder
 
+Langchain outputParser implementing a sparse priming representation (SPR) encoder/decoder for text generation. based on the work of David Shapiro
+
+[https://github.com/daveshap/SparsePrimingRepresentations]
+
+The output parser requires an LLM to encode/decode. 
+
 Example of a sparse priming representation (SPR) encoder/decoder for text generation.
 
 User asks LLM to write a biography of Abraham Lincoln. LLM generates a biography of Abraham Lincoln.
